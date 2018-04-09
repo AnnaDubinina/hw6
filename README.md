@@ -8,4 +8,4 @@
 2. 5 наиболее редских слов Л. Толстого "Анна Каренина": aber, ablutions, admirable, adore, age. Для быстрого поиска редких слов нужно поставить галочку между фразами "Sort by" и "Invert Order".
 3. анализ 3 слов Л. Толстого "Анна Каренина": суды, крахмаленным, . Слово "суды" используется в контексте 2 раза https://github.com/AnnaDubinina/hw6/blob/master/суды.png. Слово "крахмаленным" 1 раз https://github.com/AnnaDubinina/hw6/blob/master/крахмаленным.png. Слово "непогода" 1 раз https://github.com/AnnaDubinina/hw6/blob/master/непогода.png.
 4. Concordance hits: "суды"-2, "крахмаленным"-1, "непогода"-1
-5.
+5. N-грамма для слова "осинок" из "Анны Каренины" https://github.com/AnnaDubinina/hw6/blob/master/осинок.png
